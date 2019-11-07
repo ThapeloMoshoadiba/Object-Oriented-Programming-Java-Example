@@ -1,13 +1,3 @@
-/*
-
-Introduction to Software Engineering; Task 6 (number 3)
-23 August 2019; Thapelo Moshoadiba
-
-Edit School.java to test the toString methods you’ve created for each of the classes above.
-To test the toString methods, create three instances of each class (each with different attribute values) and display them as was done for the Student class.
-
-*/
-
 package school;
 
 // ensure that all the files of the methods that are to be called are in the same folder as this java file
